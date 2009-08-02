@@ -1,0 +1,48 @@
+#files {
+	padding: 0px;
+	list-style-type: none;
+}
+
+#files li {
+	margin: 5px;
+	width: 300px;
+	height: 40px; 
+	background-color: rgba(0, 0, 0, 0.6); 
+	-moz-border-radius: 12px; 
+	-webkit-border-radius: 12px;
+	color: #fff;
+	padding: 10px;
+}
+
+#files h3 {
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#files .bar {
+	width: 300px;
+	margin-top: 10px;
+	border: 1px solid #fff;
+	height: 10px; 
+	-moz-border-radius: 6px; 
+	-webkit-border-radius: 6px;
+}
+
+#files .percent {
+	height: 6px;
+	margin: 2px;
+	-moz-border-radius: 3px; 
+	-webkit-border-radius: 3px;
+	background-color: rgba(255, 255, 255, 0.6); 
+}
+
+#files .remove {
+	float: right;
+	font-size: 12px;
+	cursor: pointer;
+	padding: 2px 4px 2px 4px;
+	border: 1px solid #fff;
+	-moz-border-radius: 6px; 
+	-webkit-border-radius: 6px;
+}
