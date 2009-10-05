@@ -122,6 +122,11 @@ CD3.UI.Upload provides the most basic features handling uploads via flash . It's
 		<td>Fired when an error occurs on uploading</td>
 	</tr>
 	<tr>
+		<td>cd3:upload:empty<td>
+		<td></td>
+		<td>Fired when start method called with no files selected</td>
+	</tr>
+	<tr>
 		<td>cd3:upload:removed<td>
 		<td>queue</td>
 		<td>Fired after file was removed from the quque</td>
