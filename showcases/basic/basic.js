@@ -56,6 +56,9 @@
 		},
 		'error': function(e){
 			alert(e.memo.error);
+		},
+		'empty': function(e){
+			alert('no files were selected');
 		}
 	});
 	
